@@ -14,7 +14,7 @@ Este proyecto consiste en la mejora estructural y visual de una pagina, enfocán
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📸 Vista Previa
-*(Aquí puedes pegar una captura de pantalla de cómo quedó la página)*
+*![alt text](image.png)*
 
 ## 🚀 Cómo ejecutar el proyecto
 1. Clona el repositorio:
